@@ -1,0 +1,23 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "Simple Chat IO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasvi-mehra/chatio.git"
+  },
+  "author": "Tejasvi Mehra",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/tejasvi-mehra/chatio/issues"
+  },
+  "homepage": "https://github.com/tejasvi-mehra/chatio#readme"
+}
